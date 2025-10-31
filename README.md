@@ -1,7 +1,5 @@
 # Yevhen Navolokov | Achievement
-<br>
-<a href="https://discord.gg/6MbYCn2MpH">4Dream Community</a>
-<br>
+
 <strong>This repository created for save any achievement like certificate.</strong>
 
 ## My Certificates:
@@ -14,25 +12,32 @@
 </li>
 <li>
     <strong>Frontend</strong> <br>
+    - JavaScripts Basic <br>
     - HTM and CSS Basic <br>
  <br>
+</li>
+<li>
+    <strong>Python</strong> <br>
+    - Python Core <br>
+    - Python Basics Extended <br>
+    - Python Basics <br>
+ <br>
+</li>
+<li>
+    <strong>SQL</strong> <br>
+    - SQL Basics <br>
+ <br>
+</li>
+<li>
+    <strong>Tools</strong> <br>
+    - Object Oriented Programming <br>
+    - Git and Terminal <br>
+    - How the Web Works <br>
 </li>
 <li>
     <strong>Management</strong> <br>
     - Expert ClickUp <br>
     - Novice ClickUp <br>
  <br>
-</li>
-<li>
-    <strong>Python</strong> <br>
-    - Python Basics <br>
-    - Python Basics Extended <br>
-    - Python Core <br>
- <br>
-</li>
-<li>
-    <strong>Tools</strong> <br>
-    - Git and Terminal <br>
-    - How the Web Works <br>
 </li>
 </ul>
